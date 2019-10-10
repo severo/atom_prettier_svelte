@@ -1,8 +1,10 @@
 # Why is prettier-atom so slow on large .svelte files?
 
-Install the npm packages
+Clone and install:
 
 ```bash
+git clone git@github.com:severo/atom_prettier_svelte.git
+cd atom_prettier_svelte
 yarn
 ```
 
