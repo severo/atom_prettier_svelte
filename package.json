@@ -1,0 +1,10 @@
+{
+  "name": "atom_eslint_prettier",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "prettier-plugin-svelte": "^0.7.0",
+    "svelte": "^3.12.1"
+  }
+}
